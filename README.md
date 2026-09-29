@@ -81,7 +81,7 @@ The Power BI report (`finance analysis.pbix`) features a **4-page interactive da
 
 ---
 
-### 3. Power BI Dashboard
+##  Power BI Dashboard
 1. Open **Power BI Desktop**
 2. Open `finance analysis.pbix`
 3. Update the data source path to point to `loan_approved_clean.csv` on your machine
