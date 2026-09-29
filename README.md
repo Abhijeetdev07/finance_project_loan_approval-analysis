@@ -232,8 +232,3 @@ USE bank_loan;
 4. Click **Refresh** to reload data
 
 ---
-
-## 👤 Author
-
-**Naresh IT — Data Analytics Project**  
-*Tools: Python · MySQL · Power BI*
